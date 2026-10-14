@@ -1,3 +1,2 @@
 # RepositoryOdynets
 Hello
-Hi
